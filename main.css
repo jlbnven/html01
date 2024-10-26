@@ -1,0 +1,11 @@
+/* selector pot tag  */
+h1 {color: blue;}
+h2 {color: rgb(226, 12, 12);}
+article{ color: rgb(104, 28, 28);}
+ul{color: black;}
+header p{color: crimson;}
+
+/* selector por clases */
+
+.titulo2 {color: chocolate;}
+.texto1{font-size: 5rem;}
