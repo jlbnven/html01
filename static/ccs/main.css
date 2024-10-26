@@ -5,7 +5,11 @@ article{ color: rgb(104, 28, 28);}
 ul{color: black;}
 header p{color: crimson;}
 
-/* selector por clases */
+/* selector por clasclaes */
 
 .titulo2 {color: chocolate;}
 .texto1{font-size: 5rem;}
+
+/* selector por id */
+
+#text-a1{color: rgb(85, 83, 80);}
